@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-auto-fast-manager-dev-9h2",
+  "version": "1.0.0",
+  "description": "Enterprise-grade service layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "auto-fast-manager-dev-9h2"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-auto-fast-manager-dev-9h2.git"
+  }
+}
